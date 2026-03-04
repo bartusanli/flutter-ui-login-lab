@@ -1,16 +1,17 @@
-# final_deneme
+# Flutter Skills Lab 🚀
 
-A new Flutter project.
+| Registration Screen | Directory Screen |
+|:---:|:---:|
+| <img src="assets/registration.png" width="300"> | <img src="assets/directory.png" width="300"> |
 
-## Getting Started
+## 🌟 Key Features
+- **Form Architecture:** Sophisticated user registration with real-time email validation.
+- **Clean Code:** UI logic separated into independent screens (`lib/screens/`) for better maintainability.
+- **Material 3:** Modern UI components including `NavigationBar` and elevated `Cards`.
+- **State Management:** Dynamic list updates and interactive UI state transitions.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Skills Demonstrated
+- **Folder Structuring:** Professional separation of concerns.
+- **Form Handling:** `GlobalKey<FormState>`, `TextEditingController`, and RegEx validation.
+- **Resource Management:** Proper use of `dispose()` to prevent memory leaks.
+- **UI UX:** Implementation of `AnimatedSwitcher` for smooth screen transitions.
