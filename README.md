@@ -2,7 +2,7 @@
 
 | Registration Screen | Directory Screen |
 |:---:|:---:|
-| <img src="assets/registration.png" width="300"> | <img src="assets/directory.png" width="300"> |
+| <img src="assets/registeration.png" width="300"> | <img src="assets/directory.png" width="300"> |
 
 ## 🌟 Key Features
 - **Form Architecture:** Sophisticated user registration with real-time email validation.
